@@ -69,7 +69,7 @@ Platform	Jupyter Notebook / VS Code
 🧪 How to Run the Project
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/speech-emotion-recognition.git
+git clone [https://github.com/your-username/speech-emotion-recognition.git](https://github.com/anmolsharma-coder/Speech-Emotion-Recognition)
 cd speech-emotion-recognition
 2️⃣ Install dependencies
 
