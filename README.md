@@ -104,23 +104,5 @@ This project is licensed under the MIT License.
 See LICENSE for more details.
 
 👨‍💻 Author
-Your Name
-📧 yourEmail@example.com
-GitHub: your-profile-link
+Anmol Sharma
 
-If you'd like, I can:
-✅ Add badges (stars, forks, license, build status)
-🎨 Add a logo or architecture diagram
-🗂️ Create actual code files for training/prediction
-🤖 Integrate a simple GUI or web app (Streamlit)
-
-Would you like me to customize this README with:
-✔ Your name
-✔ Your dataset
-✔ Model type (CNN/LSTM/etc.)
-✔ Results after training?
-
-
-
-No file chosenNo file chosen
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
